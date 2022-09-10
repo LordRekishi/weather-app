@@ -7,7 +7,7 @@ The backend will then stringify the request and add the API key, this will then 
 ### How to use
 
 1. Clone this repository to your local computer and open the project in your preferred IDE
-2. Go to [openweathermap.org](https://home.openweathermap.org) and create an account
+2. Go to [openweathermap.org](https://openweathermap.org) and create an account
 3. Make sure you're logged in, then click your name in the top right and choose `My API keys`
 4. Copy the API key and go to `/weather-app/backend/index.js` file
    1. Find the element called `apiKey` and paste the key between the quotation marks
